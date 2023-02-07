@@ -9,11 +9,17 @@ GDSC UGM, Febuary 7, 2023 - Daniyal Kautsar
 
 ## Hands-on Lab:
 
-### [Cats vs Dogs Classification](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Cats_vs_Dogs_hands_on.ipynb)
+### Cats vs Dogs Classification [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vd_Dogs_hands_on.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vd_Dogs_hands_on.ipynb)
 
 `You're gonna have an introduction to CNN using the famous Cats vs Dogs dataset to train a model that can classify images of dogs from images of cats.`
 
-## Additional Materials:
+## Practice Lab:
+
+### Chest Cancer Detection [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/chest_cancer_detection.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/chest_cancer_detection.ipynb)
+
+`You're gonna have a practice using CT-Scan Image dataset to train a Transfer Learning model using Functional API and pre-trained MobileNetv2.`
+
+## Additional Materials Beyond the Scope:
 
 1. [An amazing explanation of how the neural network and deep learning algorithms works.](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
