@@ -5,7 +5,7 @@ GDSC UGM, Febuary 7, 2023 - Daniyal Kautsar
 ---
 
 ## Materials:
-[PPT Slides](somelinks)
+[PPT Slides](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Image_Processing_using_Keras_API.pdf)
 
 ## Hands-on Lab:
 
