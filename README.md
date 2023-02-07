@@ -9,7 +9,7 @@ GDSC UGM, Febuary 7, 2023 - Daniyal Kautsar
 
 ## Hands-on Lab:
 
-### Cats vs Dogs Classification [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vd_Dogs_hands_on.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vd_Dogs_hands_on.ipynb)
+### Cats vs Dogs Classification [github](https://github.com/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vs_Dogs_hands_on.ipynb) [Colab](https://colab.research.google.com/github/mdaniyalk/image-processing-gdsc-ugm/blob/main/Dats_vs_Dogs_hands_on.ipynb)
 
 `You're gonna have an introduction to CNN using the famous Cats vs Dogs dataset to train a model that can classify images of dogs from images of cats.`
 
